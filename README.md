@@ -143,12 +143,3 @@ Author
 Daniele
 Cybersecurity student
 HomeLab-based learning approach
-
-
----
-
-### Cosa fai adesso (senza pensarci troppo)
-1. In alto: **Name your file → `README.md`**
-2. Incolla tutto
-3. **Commit changes**
-4. Messaggio commit:
